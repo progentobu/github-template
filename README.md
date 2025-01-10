@@ -9,11 +9,11 @@ GitHubのテンプレートの各種動作確認
 ### 1). 機能実装のプルリクエストの場合
 
 - 表示されたテンプレートをそのまま使ってください
-- (またはURLの末尾に `&template=feature_template.md` を追記してください)
+- (またはURLの末尾に `?template=feature_template.md` を追記してください)
 
 ### 2). 不具合修正のプルリクエストの場合
 
-- URLの末尾に `&template=fix_template.md` を追記してください
+- URLの末尾に `?template=fix_template.md` を追記してください
 
 ### 3). その他のプルリクエストの場合
 
